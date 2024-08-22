@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharif Tasleem</h1>
 <h3 align="center">A student passionate about software development and anything that spells 'AI'</h3>
-
+<div class="tenor-gif-embed" data-postid="26778811" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/luffy-gif-26778811">Luffy GIF</a>from <a href="https://tenor.com/search/luffy-gifs">Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inferno565&label=Profile%20views&color=0e75b6&style=flat" alt="inferno565" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inferno565" alt="inferno565" /></a> </p>
