@@ -17,8 +17,6 @@
 
 ![luffy](https://github.com/user-attachments/assets/6e9a3917-c567-4a8f-b60e-28fff6e51354)
 
-<h3 align="left"> Kaizoku ou ni, orewa naru</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shariftasleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shariftasleem" height="30" width="40" /></a>
