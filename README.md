@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharif Tasleem</h1>
 <h3 align="center">A student passionate about software development and anything that spells 'AI'</h3>
-         ![luffy](https://github.com/user-attachments/assets/e7bd97d2-7c3c-45ec-ac62-7e4ae204b6c1)
+
+![luffy](https://github.com/user-attachments/assets/72997a96-cecc-485f-8ad5-f36470254696)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inferno565" alt="inferno565" /></a> </p>
 
@@ -15,6 +16,8 @@
 - 📄 Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
 
 - ⚡ Fun fact **I hate CSS even though I am a Web Developer**
+
+- 👒 Kaizoku oni orewa naru
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
