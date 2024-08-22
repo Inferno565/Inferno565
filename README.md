@@ -17,7 +17,7 @@
 
 ![luffy](https://github.com/user-attachments/assets/6e9a3917-c567-4a8f-b60e-28fff6e51354)
 
-<h3 align="left"> Kaizoku oni orewa naru</h3>
+<h3 align="left"> Kaizoku ou ni, orewa naru</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
