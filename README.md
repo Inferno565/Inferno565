@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sharif Tasleem</h1>
 <h3 align="center">A student passionate about software development and anything that spells 'AI'</h3>
 
-![luffy](https://github.com/user-attachments/assets/e7bd97d2-7c3c-45ec-ac62-7e4ae204b6c1)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inferno565" alt="inferno565" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
-- 🤝 I’m looking for help with **Software Development**
+- 🤝 I’m looking for help with **Software Development**  
 
-- 💬 Ask me about **Node, React and anything JS**
+- 💬 Ask me about **Node, React and anything JS**                                      ![luffy](https://github.com/user-attachments/assets/e7bd97d2-7c3c-45ec-ac62-7e4ae204b6c1)
 
 - 📫 How to reach me **hamdulesharif555@gmail.com**
 
