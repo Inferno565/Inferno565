@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharif Tasleem</h1>
 <h3 align="center">A student passionate about software development and anything that spells 'AI'</h3>
 
-![luffy](https://github.com/user-attachments/assets/72997a96-cecc-485f-8ad5-f36470254696)
+<div align="center">
+  <img src="luffy.gif" alt="Kaizoku oni Orewa Naru">
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inferno565" alt="inferno565" /></a> </p>
 
