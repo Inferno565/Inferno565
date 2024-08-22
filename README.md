@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inferno565" alt="inferno565" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Software Development**
 
-- 🤝 I’m looking for help with **Software Development**  
+- 🤝 I’m looking for help with **Data Science**  
 
 - 💬 Ask me about **Node, React and anything JS**
 
