@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sharif Tasleem</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A student passionate about software development and anything that spells 'AI'</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inferno565&label=Profile%20views&color=0e75b6&style=flat" alt="inferno565" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inferno565" alt="inferno565" /></a> </p>
+
+- 🌱 I’m currently learning **Data Science**
+
+- 🤝 I’m looking for help with **Software Development**
+
+- 💬 Ask me about **Node, React and anything JS**
+
+- 📫 How to reach me **hamdulesharif555@gmail.com**
+
+- 📄 Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
+
+- ⚡ Fun fact **I hate CSS even though I am a Web Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
