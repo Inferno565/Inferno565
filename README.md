@@ -1,4 +1,6 @@
-<div align="center" ![luffy-yo](https://github.com/user-attachments/assets/03682d1e-c893-456a-abf5-5490f0791f7d) >
+<p align="center">
+  <img src="" alt="Yo"/>
+</p>
 
 <h1 align="center">I'm Sharif Tasleem</h1>
 <h3 align="center">A student passionate about software development and anything that spells 'AI'</h3>
