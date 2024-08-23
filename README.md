@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Yo"/>
+  <img src="luff-yo.gif" alt="Yo"/>
 </p>
 
 <h1 align="center">I'm Sharif Tasleem</h1>
