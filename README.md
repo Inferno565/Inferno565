@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inferno565&show_icons=true&locale=en" alt="inferno565" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inferno565&" alt="inferno565" /></p>
+
+![jump](https://github.com/user-attachments/assets/bc54eae0-6e25-476e-ab93-10d5d18b3c8f)
