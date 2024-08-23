@@ -19,7 +19,9 @@
 
 - ⚡ Fun fact **I hate CSS even though I am a Web Developer**
 
-![luffy](https://github.com/user-attachments/assets/6e9a3917-c567-4a8f-b60e-28fff6e51354)
+<p align="center">
+  <img src="luffy.gif" alt="Luffy"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
