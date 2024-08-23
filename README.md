@@ -1,6 +1,6 @@
-![luffy-yo](https://github.com/user-attachments/assets/d1b5ae78-4ae0-43b3-9daf-340d56012444)
- <h1 align="center">I'm Sharif Tasleem</h1>
+<div align="center" ![luffy-yo](https://github.com/user-attachments/assets/03682d1e-c893-456a-abf5-5490f0791f7d) >
 
+<h1 align="center">I'm Sharif Tasleem</h1>
 <h3 align="center">A student passionate about software development and anything that spells 'AI'</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inferno565" alt="inferno565" /></a> </p>
