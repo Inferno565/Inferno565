@@ -81,14 +81,13 @@
         <td class="icon-container">
             <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo" />
             <img width="14" />
-        <td class="icon-container">
             <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="sqlite logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
             <img width="14" />
         </td>
     </tr>
-    <tr>
+      <tr>
         <td>Mobile App</td>
         <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="androidstudio logo" />
         <img width="14" />
