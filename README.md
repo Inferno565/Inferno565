@@ -89,12 +89,14 @@
     </tr>
       <tr>
         <td>Mobile App</td>
+         <td class="icon-container">
         <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="androidstudio logo" />
         <img width="14" />
         </td>
     </tr>
     <tr>
         <td>Tools</td>
+       <td class="icon-container">
         <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo" />
         <img width="14" />
         <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo" />
