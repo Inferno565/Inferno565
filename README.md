@@ -29,41 +29,81 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table border="1">
-        <thead>
-            <tr>
-                <th>Frontend</th>
-                <th>Backend</th>
-                <th>Frameworks</th>
-                <th>Databases</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
-                </td>
-                <td>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" /><br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<table>
+    <tr>
+        <th>Category</th>
+        <th>Technologies</th>
+    </tr>
+    <tr>
+        <td>Programming Languaged</td>
+        <td class="icon-container">
+            <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo" />
+            <img width="14" />
+        </td>
+    </tr>
+    <tr>
+        <td>Frontend</td>
+        <td class="icon-container">
+            <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo" />
+            <img width="14" />
+        </td>
+    </tr>
+    <tr>
+        <td>UI Libraries & Frameworks</td>
+        <td class="icon-container">
+            <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo" />
+            <img width="14" />
+        </td>
+    </tr>
+    <tr>
+        <td>Backend</td>
+        <td class="icon-container">
+            <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo" />
+            <img width="14" />
+        </td>
+    </tr>
+    <tr>
+        <td>Database</td>
+        <td class="icon-container">
+            <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo" />
+            <img width="14" />
+        <td class="icon-container">
+            <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="sqlite logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
+            <img width="14" />
+        </td>
+    </tr>
+    <tr>
+        <td>Mobile App</td>
+        <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="androidstudio logo" />
+        <img width="14" />
+        </td>
+    </tr>
+    <tr>
+        <td>Tools</td>
+        <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo" />
+        <img width="14" />
+        <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo" />
+        <img width="14" />
+        </td>
+    </tr>
+</table>
+       
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inferno565&show_icons=true&locale=en&layout=compact" alt="inferno565" /></p>
 
