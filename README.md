@@ -33,7 +33,7 @@
         <th>Technologies</th>
     </tr>
     <tr>
-        <td>Programming Languaged</td>
+        <td>Programming Languages</td>
         <td class="icon-container">
             <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo" />
             <img width="14" />
