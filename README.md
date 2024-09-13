@@ -81,7 +81,7 @@
         <td class="icon-container">
             <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo" />
             <img width="14" />
-            <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="sqlite logo" />
+            <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="sqlite logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
             <img width="14" />
