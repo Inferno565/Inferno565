@@ -65,6 +65,8 @@
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwind logo" />
             <img width="14" />
+           <img src="https://skillicons.dev/icons?i=shadcn" height="36" alt="tailwind logo" />
+            <img width="14" />
         </td>
     </tr>
     <tr>
