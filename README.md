@@ -111,7 +111,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Inferno565&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Inferno565&theme=dracula&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Inferno565&theme=dracula&hide_border=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Inferno565&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2) 
 
