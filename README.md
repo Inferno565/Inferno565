@@ -1,4 +1,4 @@
-9<p align="center">
+<p align="center">
   <img src="luffy-yo.gif" alt="Yo"/>
 </p>
 
