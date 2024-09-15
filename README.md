@@ -113,7 +113,7 @@
 
 ![Inferno565's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inferno565&theme=dracula&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Inferno565&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2) 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Inferno565&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide) 
 
 
 <hr>
