@@ -45,8 +45,6 @@
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo" />
             <img width="14" />
-            <img src="https://skillicons.dev/icons?i=visualbasic" height="36" alt="java logo" />
-            <img width="14" />
         </td>
     </tr>
     <tr>
