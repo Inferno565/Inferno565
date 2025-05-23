@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Data Science**  
 
-- 💬 Ask me about **Node, React and anything JS**
-
 - 📫 How to reach me **hamdulesharif555@gmail.com**
 
 - 📄 Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
