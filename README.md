@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 🤝 I’m looking for help with **Data Science**  
-
 - 📫 How to reach me **hamdulesharif555@gmail.com**
 
 - 📄 Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
