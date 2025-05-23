@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">I'm Sharif Tasleem</h1>
-<h3 align="center">A student passionate about anything that spells 'Computer Science'</h3>
+<!-- <h3 align="center">A student passionate about anything that spells 'Computer Science'</h3> -->
 
 - 🌱 I’m currently learning **Software Development**
 
