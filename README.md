@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
 
-- ⚡ Fun fact **I hate Front-end dev even though I am a Full Stack Developer**
-
 <p align="center">
   <img src="luffy.gif" alt="Luffy"/>
 </p>
