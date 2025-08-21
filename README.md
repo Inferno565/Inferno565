@@ -11,10 +11,6 @@
 
 - 📄 Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
 
-<p align="center">
-  <img src="luffy.gif" alt="Luffy"/>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
    <a href="https://www.linkedin.com/in/shariftasleem/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
