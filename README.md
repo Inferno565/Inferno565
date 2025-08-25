@@ -5,11 +5,11 @@
 <h1 align="center">I'm Sharif Tasleem</h1>
 <!-- <h3 align="center">A student passionate about anything that spells 'Computer Science'</h3> -->
 
-- 🌱 I’m currently learning **Software Development**
+- I’m currently learning **Software Development**
 
-- 📫 How to reach me **hamdulesharif555@gmail.com**
+- How to reach me **hamdulesharif555@gmail.com**
 
-- 📄 Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
+- Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
