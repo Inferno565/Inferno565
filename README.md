@@ -4,20 +4,20 @@
 
 <h1 align="center">I'm Sharif Tasleem</h1>
 <!-- <h3 align="center">A student passionate about anything that spells 'Computer Science'</h3> -->
-
-- I’m currently learning **Software Development**
-
-- How to reach me **hamdulesharif555@gmail.com**
-
-- Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="left">
    <a href="https://www.linkedin.com/in/shariftasleem/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
         width="47" height="35" alt="linkedin logo" /></a>
   <a href="https://x.com/Inferno_565/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
         width="47" height="35" alt="linkedin logo" /></a>
 </div>
+- I’m currently learning **Software Development**
+
+- How to reach me **hamdulesharif555@gmail.com**
+
+- Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
