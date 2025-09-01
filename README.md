@@ -6,20 +6,19 @@
 <!-- <h3 align="center">A student passionate about anything that spells 'Computer Science'</h3> -->
 <!-- <h3 align="center">Connect with me:</h3>
 
+- I’m currently learning **Software Development**
+
+- How to reach me **hamdulesharif555@gmail.com**
+
+- Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
+<hr>
 <div align="center"> -->
    <a href="https://www.linkedin.com/in/shariftasleem/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
         width="47" height="35" alt="linkedin logo" /></a>
   <a href="https://x.com/Inferno_565/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
         width="47" height="35" alt="linkedin logo" /></a>
 </div>
-
-- I’m currently learning **Software Development**
-
-- How to reach me **hamdulesharif555@gmail.com**
-
-- Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
-
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
@@ -98,7 +97,6 @@
         </td>
     </tr>
 </table>
-       
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inferno565&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
