@@ -34,7 +34,7 @@
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo" />
             <img width="14" />
-            <img src="https://skillicons.dev/icons?i=c++" height="36" alt="c++ logo" />
+            <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cpp logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo" />
             <img width="14" />
@@ -95,6 +95,8 @@
         <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo" />
         <img width="14" />
         <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo" />
+        <img width="14" />
+        <img src="https://skillicons.dev/icons?i=vim" height="36" alt="vim logo" />
         <img width="14" />
         </td>
     </tr>
