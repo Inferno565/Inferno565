@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">I'm Sharif Tasleem</h1>
-<!-- <h3 align="center">A student passionate about anything that spells 'Computer Science'</h3> -->
 
 - I’m currently learning **Software Development**
 
 - How to reach me **hamdulesharif555@gmail.com**
 
 - Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
+
 <hr>
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<div align="left">
    <a href="https://www.linkedin.com/in/shariftasleem/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
         width="47" height="35" alt="linkedin logo" /></a>
   <a href="https://x.com/Inferno_565/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
@@ -33,6 +33,8 @@
             <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=c++" height="36" alt="c++ logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo" />
             <img width="14" />
