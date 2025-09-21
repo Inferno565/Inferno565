@@ -6,7 +6,7 @@
 
 - I’m currently learning **Software Development**
 
-- How to reach me **hamdulesharif555@gmail.com**
+- How to reach me **shariftasleem5@gmail.com**
 
 - Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
 
