@@ -100,8 +100,6 @@
         <img width="14" />
         <img src="https://skillicons.dev/icons?i=vim" height="36" alt="vim logo" />
         <img width="14" />
-        <img src="https://skillicons.dev/icons?i=thunderclient" height="36" alt="tc logo" />
-        <img width="14" />
         <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo" />
         <img width="14" />
         </td>
