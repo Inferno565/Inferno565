@@ -30,13 +30,15 @@
         <td class="icon-container">
             <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo" />
             <img width="14" />
-            <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
+            <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cpp logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo" />
             <img width="14" />
