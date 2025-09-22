@@ -4,9 +4,7 @@
 
 <h1 align="center">I'm Sharif Tasleem</h1>
 
-- I’m currently learning **Software Development**
-
-- How to reach me **shariftasleem5@gmail.com**
+- Reach me **shariftasleem5@gmail.com**
 
 - Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
 
