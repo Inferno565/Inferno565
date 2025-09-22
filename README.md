@@ -28,15 +28,9 @@
     <tr>
         <td>Programming Languages</td>
         <td class="icon-container">
-            <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo" />
-            <img width="14" />
-            <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo" />
-            <img width="14" />
             <img src="https://skillicons.dev/icons?i=c" height="36" alt="c logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cpp logo" />
-            <img width="14" />
-            <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
             <img width="14" />
@@ -52,6 +46,10 @@
             <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo" />
             <img width="14" />
         </td>
     </tr>
@@ -70,6 +68,8 @@
             <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo" />
             <img width="14" />
         </td>
     </tr>
@@ -99,6 +99,10 @@
         <img src="https://skillicons.dev/icons?i=github" height="36" alt="github logo" />
         <img width="14" />
         <img src="https://skillicons.dev/icons?i=vim" height="36" alt="vim logo" />
+        <img width="14" />
+        <img src="https://skillicons.dev/icons?i=thunderclient" height="36" alt="tc logo" />
+        <img width="14" />
+        <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo" />
         <img width="14" />
         </td>
     </tr>
