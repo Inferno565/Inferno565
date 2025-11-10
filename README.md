@@ -65,9 +65,9 @@
     <tr>
         <td>Backend</td>
         <td class="icon-container">
-            <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo" />
-            <img width="14" />
             <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=nestjs" height="36" alt="nestjs logo" />
             <img width="14" />
