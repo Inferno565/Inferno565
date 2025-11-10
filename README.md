@@ -45,6 +45,8 @@
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo" />
             <img width="14" />
+            <img src="https://skillicons.dev/icons?i=next" height="36" alt="next logo" />
+            <img width="14" />
             <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo" />
@@ -66,6 +68,8 @@
             <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo" />
+            <img width="14" />
+            <img src="https://skillicons.dev/icons?i=nestjs" height="36" alt="nestjs logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo" />
             <img width="14" />
