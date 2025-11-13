@@ -4,6 +4,8 @@
 
 <h1 align="center">I'm Sharif Tasleem</h1>
 
+- Currently learning to build scalable web applications
+  
 - Reach me **shariftasleem5@gmail.com**
 
 - Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
