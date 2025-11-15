@@ -10,7 +10,7 @@
 
 - Know about my experiences [https://sharif-resume.tiiny.site/](https://sharif-resume.tiiny.site/)
 
-- Fun Fact I’m obsessed with aircrafts — I can spend hours watching them take off and land, and sometimes even lose track of time just listening to a GE90 spool up.
+- Fun Fact I’m obsessed with aircrafts I can spend hours watching them take off and land, and even lose track of time just listening to turbo fan engines spool up.
 
 <hr>
 <h3 align="left">Connect with me:</h3>
