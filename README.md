@@ -115,7 +115,7 @@
 </table>
 <hr>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/inferno565/inferno565/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/inferno565/inferno565/languages-output/languages.svg" height="150" alt="languages graph"  />
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=inferno565&label=Profile%20views&color=0e75b6&style=flat" alt="inferno565" /> </p>
 </div>
 <hr>
