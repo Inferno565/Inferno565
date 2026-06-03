@@ -34,8 +34,8 @@
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cpp logo" />
             <img width="14" />
-            <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
-            <img width="14" />
+            <!-- <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
+            <img width="14" /> -->
             <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo" />
             <img width="14" />
         </td>
@@ -64,6 +64,8 @@
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwind logo" />
             <img width="14" />
+            <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="materialui logo" />
+            <img width="14" />
         </td>
     </tr>
     <tr>
@@ -89,6 +91,13 @@
             <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="sqlite logo" />
+            <img width="14" />
+        </td>
+    </tr>
+      <tr>
+        <td>Testing</td>
+        <td class="icon-container">
+            <img src="https://skillicons.dev/icons?i=jest" height="36" alt="jest logo" />
             <img width="14" />
         </td>
     </tr>
