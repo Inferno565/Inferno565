@@ -20,8 +20,8 @@
   <a href="https://x.com/Inferno_565/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
         width="47" height="35" alt="linkedin logo" /></a>
 </div>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
+<!-- <hr> -->
+<!-- <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
         <th>Category</th>
@@ -34,8 +34,8 @@
             <img width="14" />
             <img src="https://skillicons.dev/icons?i=cpp" height="36" alt="cpp logo" />
             <img width="14" />
-            <!-- <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
-            <img width="14" /> -->
+            <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo" />
+            <img width="14" />
             <img src="https://skillicons.dev/icons?i=java" height="36" alt="java logo" />
             <img width="14" />
         </td>
@@ -121,7 +121,7 @@
         <img width="14" />
         </td>
     </tr>
-</table>
+</table> -->
 <hr>
 <div align="center">
   <img src="https://raw.githubusercontent.com/inferno565/inferno565/languages-output/languages.svg" height="150" alt="languages graph"  />
