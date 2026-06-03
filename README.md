@@ -116,8 +116,6 @@
 <hr>
 <div align="center">
   <img src="https://raw.githubusercontent.com/inferno565/inferno565/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/inferno565/inferno565/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=inferno565&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=inferno565&label=Profile%20views&color=0e75b6&style=flat" alt="inferno565" /> </p>
 </div>
 <hr>
